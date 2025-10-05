@@ -139,11 +139,5 @@ air-travel-delay-prediction/
 
 ## 📑 Reports
 
-* Detailed methodology and analysis: [`reports/final_report.pdf`](reports/final_report.pdf)
-* Dataset description: [`data/column_definitions.pdf`](data/column_definitions.pdf)
-
----
-
-## 📌 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+* Detailed methodology and analysis: [`presentation_deck/Presentation.pdf`](presentation_deck/Presentation.pdf)
+* Dataset description: [`Dataset/Column_definitions.pdf`](Dataset/Column_definitions.pdf)
